@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="datadrivenframework">
+<test name="logintest">
+<classes>
+<class name="Datadrivenframework.Bothcorrect"/>
+<class name="Datadrivenframework.BothIncorrect"/>
+<class name="Datadrivenframework.Correctpassword"/>
+<class name="Datadrivenframework.Correctusername"/>
+
+</classes>
+</test>
+</suite>
